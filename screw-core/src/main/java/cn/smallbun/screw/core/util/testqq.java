@@ -77,5 +77,6 @@ public class testqq {
                 .produceConfig(processConfig).build();
         //执行生成
         new DocumentationExecute(config).execute();
+
     }
 }
